@@ -1,9 +1,3 @@
-### Olá! Eu sou o Marco Sérvio👋
-
-- 🔭 Trabalho com back-end
-- 🌱 Estou estudando C# 
-- 📫 Contate-me no email: marcoservio22@hotmail.com
-
 <div align="center">
   <a href="https://github.com/marcoservio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoservio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
