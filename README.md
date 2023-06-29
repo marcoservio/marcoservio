@@ -5,8 +5,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Marco-Csharp" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marco-.Net" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="23px" height="23px"/>
+  <a href="https://dotnet.microsoft.com/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="C#" width="23px" height="23px"/>
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="23px" height="23px"/>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="23px" height="23px"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="23px" height="23px"></a>
