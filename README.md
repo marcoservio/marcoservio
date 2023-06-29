@@ -7,9 +7,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco-Csharp" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marco-.Net" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="25px" height="25px"/>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
-  <a href="https://git-scm.com/" title="Git"><img src=" https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="25px" height="25px"></a>
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="23px" height="23px"/>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="23px" height="23px"></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="23px" height="23px"></a>
   <img align="center" alt="Marco-MySql" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
   <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
