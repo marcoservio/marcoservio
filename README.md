@@ -15,7 +15,6 @@
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
   <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px"></a>
-  <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
   <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" alt="Kubernetes" width="21px" height="21px"></a>  
   <a href="https://www.jenkins.io/" title="Jenkins"><img src="https://github.com/get-icon/geticon/blob/master/icons/jenkins.svg" alt="Jenkins" width="21px" height="21px"></a>
