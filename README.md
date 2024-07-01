@@ -1,10 +1,8 @@
 ## 👋 Hi there
 
 ## 📊 GitHub Stats:
-<div align="center" href="https://github.com/marcoservio">
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=marcoservio&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="364px" />                    
+<div align="center" href="https://github.com/marcoservio">              
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoservio&theme=dark&hide_border=false" width="400px" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoservio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 💻 Tech Stack
