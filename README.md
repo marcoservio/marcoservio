@@ -1,10 +1,5 @@
 ## 👋 Hi there
 
-## 📊 GitHub Stats:
-<div align="center" href="https://github.com/marcoservio">              
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoservio&theme=dark&hide_border=false" width="400px" />  
-</div>
-
 ## 💻 Tech Stack
 <div style="display: inline_block">
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="21px" height="21px"></a>
