@@ -1,5 +1,3 @@
-## 👋 Hi there
-
 ## 💻 Tech Stack
 <div style="display: inline_block">
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="21px" height="21px"></a>
